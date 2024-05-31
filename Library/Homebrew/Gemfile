@@ -20,7 +20,7 @@ gem "tapioca", require: false
 # vendored gems
 gem "activesupport"
 gem "concurrent-ruby"
-gem "mechanize"
+gem "mechanize", ">= 2.7.7"
 gem "patchelf"
 gem "plist"
 gem "rubocop-performance"
